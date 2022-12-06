@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TP4-IR/static/css/main.073c9b0a.css",
+    "main.js": "/TP4-IR/static/js/main.c7a0d7b3.js",
+    "static/js/787.9be19fd3.chunk.js": "/TP4-IR/static/js/787.9be19fd3.chunk.js",
+    "static/media/logo.svg": "/TP4-IR/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TP4-IR/index.html",
+    "main.073c9b0a.css.map": "/TP4-IR/static/css/main.073c9b0a.css.map",
+    "main.c7a0d7b3.js.map": "/TP4-IR/static/js/main.c7a0d7b3.js.map",
+    "787.9be19fd3.chunk.js.map": "/TP4-IR/static/js/787.9be19fd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c7a0d7b3.js"
+  ]
+}
