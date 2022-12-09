@@ -46,7 +46,7 @@ interface Doc {
 }
 
 async function getConvertedData(input:string): Promise<Doc[]>{
-	return fetch('http://34.128.65.212:8000/search?query='+input, {
+	return fetch('//34.128.65.212:8000/search?query='+input, {
 		method: 'GET',
 	}).then(response => {
         console.log(response)
